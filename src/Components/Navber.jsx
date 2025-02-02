@@ -13,7 +13,7 @@ function Navber() {
         clipPath:"circle(20px at 43px 37px)",
         transition: {
             type:"spring",  
-            damping: 4,
+            damping: 20,
         }
        }
    }
